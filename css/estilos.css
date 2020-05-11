@@ -1,0 +1,36 @@
+body {
+    background-image: url('https://fabricadesolucoesweb.com.br/wp-content/uploads/2019/01/diferenca-entre-ux-design-e-ui-design-1400x700.png');
+    background-size: auto 100vh;
+    font-family: Calibri; 
+    height: 100vh;
+  }
+  
+  .menu {
+  
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: blue;
+    text-align: center;
+  }
+  h2{
+    font-style: italic; 
+  }
+  
